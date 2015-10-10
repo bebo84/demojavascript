@@ -1,0 +1,25 @@
+{
+  "name": "demojavascript",
+  "version": "1.0.0",
+  "description": "some features of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bebo84/basicdemojavascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "tran phuong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bebo84/basicdemojavascript/issues"
+  },
+  "homepage": "https://github.com/bebo84/basicdemojavascript#readme",
+  "dependencies": {
+    "chai": "^3.3.0"
+  }
+}
