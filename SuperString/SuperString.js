@@ -26,6 +26,13 @@ module.exports =
             {
                 tmp += string.charAt(i);
                 //console.log(tmp);
+                if (i == string.length - 1)
+                {
+                    if (tmp.length > long.length)
+                    {
+                        return tmp;
+                    }
+                }
             }
             else
             {
